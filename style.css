@@ -1,0 +1,23 @@
+body{
+    background-color: lightblue;
+}
+
+img{
+    width: 300px;
+    border-radius: 50%;
+}
+
+.header{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.square{
+    background-color: aquamarine;
+    width: 700px;
+    height: 100%;
+    margin-top: 30px;
+    position: fixed;
+    z-index: -1;
+}
